@@ -17,6 +17,8 @@ I am a third year student who is majoring in Actuarial Science and Statistics wh
 
 The reason I decided to study Statistics is because I enjoy working with data. I find the idea of taking raw data and being able to tell a story by examining tables and graphs based on that data very fascinating and rewarding. I recently replicated a paper in which we examined how birth rates had changed for younger adults based mainly off of economic and social factors. Ever since I was a kid, I enjoyed working with numbers which motivated me to major in Actuarial Science and learn about the finance and insurance world.
 
+The main softwares I have experience using are R, Excel and Python. 
+
 
 ## Education
 
