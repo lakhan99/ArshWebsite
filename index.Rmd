@@ -1,15 +1,11 @@
 ---
 title: "Arsh Lakhanpal"
-image: "frank.jpg"
+image: "gitpic.png"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
   - label: GitHub
-    url: "https://github.com/"
+    url: "github.com/lakhan99"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:arshlakhanpal6@gmail.com"
 output:
   postcards::trestles
 site: distill::distill_website
@@ -17,25 +13,17 @@ site: distill::distill_website
  
 ## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+I am a third year student who is majoring in Actuarial Science and Statistics while minoring in Mathematics at the University of Toronto. I am originally from India but I’ve been living in Canada since 2006. I’ve attended all levels of school here in Toronto. 
+
+The reason I decided to study Statistics is because I enjoy working with data. I find the idea of taking raw data and being able to tell a story by examining tables and graphs based on that data very fascinating and rewarding. I recently replicated a paper in which we examined how birth rates had changed for younger adults based mainly off of economic and social factors. Ever since I was a kid, I enjoyed working with numbers which motivated me to major in Actuarial Science and learn about the finance and insurance world.
+
 
 ## Education
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+**University of Toronto** | Toronto, ON
 
-Ph.D. in Computer Science | September 2009 - May 2014
-
-**The University of California, Berkeley** | Berkeley, CA
-
-B.S. in Computer Science | September 2005 - May 2009
+Bachelors of Science | September 2019 - Present
 
 ## Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
-
-**Netflix** | Research Scientist | June 2014 - December 2017
+**Wal-mart** | Cap 2/ Fulfillment Associate | December 2020 - Present
