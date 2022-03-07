@@ -1,7 +1,13 @@
 ---
 title: "About this blog"
 description: |
-  One of my favorite hobbies is playing the guitar. In my free time, I enjoy learning fingerstyle variations of some of my favorite songs! I began teaching myself  3 years ago with the majority of my learning coming from YouTube videos. It's not as intimidating as it may seem! I also love watching and playing soccer, my favorite team is Arsenal and on an international level I would probably support Belgium.
+  One of my favorite hobbies is playing the guitar. In my free time, I enjoy learning fingerstyle variations of some of my favorite songs! I began teaching myself  3 years ago with the majority of my learning coming from YouTube videos. It's not as intimidating as it may seem! 
+  
+  I also love watching and playing soccer, my favorite team is Arsenal and on an international level I would probably support Belgium.
+  
+  My favorite movie is Interstellar and no one can change my mind about thinking that is the greatest movie ever. 
+  
+  
 
 ---
 
