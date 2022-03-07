@@ -2,25 +2,25 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About me",
-      "description": "One of my favorite hobbies is playing the guitar. In my free time, I enjoy learning fingerstyle variations of some of my favorite songs! I began teaching myself  3 years ago with the majority of my learning coming from YouTube videos. It's not as intimidating as it may seem! \n\nI also love watching and playing soccer, my favorite team is Arsenal and on an international level I would probably support Belgium.\n\nMy favorite movie is Interstellar and no one can change my mind about that being the greatest movie ever. \n",
+      "title": " More about me",
+      "description": "\nI find it important to keep a balance between a healthy mental and physical life which and I feel my hobbies and interests reflect that. \n\nOne of my favorite hobbies is playing the guitar. In my free time, I enjoy learning fingerstyle variations of some of my favorite songs! I began teaching myself 3 years ago with the majority of my learning coming from YouTube videos. It's not as intimidating as it may seem! I'd highly recommend anyone interested in learning guitar to try, it's therapeutical for me.  \n\nI also love watching and playing soccer, my favorite team is Arsenal and on an international level I would probably support Belgium. I also try to workout atleast 4 times a week as physical health is something that I believe to be extremely important.\n\nMy favorite movie is Interstellar and no one can change my mind about that being the greatest movie ever. \n",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-03-07T16:31:00+00:00"
+      "last_modified": "2022-03-07T16:32:36+00:00"
     },
     {
       "path": "blog.html",
       "title": "Arsh Lakhanpal ",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-03-07T16:31:01+00:00"
+      "last_modified": "2022-03-07T16:32:58+00:00"
     },
     {
       "path": "index.html",
       "title": "Arsh Lakhanpal",
       "author": [],
       "contents": "\n\n          \n          \n          Arsh Lakhanpal \n          \n          \n          Home\n          My Resume\n          About\n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              Arsh Lakhanpal\n            \n            \n              \n                \n                    \n                      \n                        GitHub\n                      \n                    \n                  \n                                    \n                    \n                      \n                        Email\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            Bio\n            I am a third year student who is majoring in Actuarial Science and Statistics while minoring in Mathematics at the University of Toronto. I am originally from India but I’ve been living in Canada since 2006. I’ve attended all levels of school here in Toronto.\n            The reason I decided to study Statistics is because I enjoy working with data. I find the idea of taking raw data and being able to tell a story by examining tables and graphs based on that data very fascinating and rewarding. I recently replicated a paper in which we examined how birth rates had changed for younger adults based mainly off of economic and social factors. Ever since I was a kid, I enjoyed working with numbers which motivated me to major in Actuarial Science and learn about the finance and insurance world.\n            The main softwares I have experience using are R, Excel and Python.\n            \n            \n            Education\n            University of Toronto | Toronto, ON\n            Bachelors of Science | September 2019 - Present\n            \n            \n            Experience\n            Walmart | Cap 2/ Fulfillment Associate | December 2020 - Present\n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Arsh Lakhanpal\n            \n            \n              \n                \n                                    \n                    \n                      GitHub\n                    \n                  \n                                    \n                    \n                      Email\n                    \n                  \n                                  \n              \n            \n            \n              \n              Bio\n              I am a third year student who is majoring in Actuarial Science and Statistics while minoring in Mathematics at the University of Toronto. I am originally from India but I’ve been living in Canada since 2006. I’ve attended all levels of school here in Toronto.\n              The reason I decided to study Statistics is because I enjoy working with data. I find the idea of taking raw data and being able to tell a story by examining tables and graphs based on that data very fascinating and rewarding. I recently replicated a paper in which we examined how birth rates had changed for younger adults based mainly off of economic and social factors. Ever since I was a kid, I enjoyed working with numbers which motivated me to major in Actuarial Science and learn about the finance and insurance world.\n              The main softwares I have experience using are R, Excel and Python.\n              \n              \n              Education\n              University of Toronto | Toronto, ON\n              Bachelors of Science | September 2019 - Present\n              \n              \n              Experience\n              Walmart | Cap 2/ Fulfillment Associate | December 2020 - Present\n              \n            \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2022-03-07T16:31:01+00:00"
+      "last_modified": "2022-03-07T16:53:20+00:00"
     }
   ],
   "collections": ["posts/posts.json"]
