@@ -13,9 +13,11 @@ site: distill::distill_website
  
 ## Bio
 
-I am a third year student who is majoring in Actuarial Science and Statistics while minoring in Mathematics at the University of Toronto. I am originally from India but I’ve been living in Canada since 2006. I’ve attended all levels of school here in Toronto. 
+I am a third year student who is majoring in Actuarial Science and Statistics while minoring in Mathematics at the University of Toronto. Is it apparent that I like math? 
 
-The reason I decided to study Statistics is because I enjoy working with data. I find the idea of taking raw data and being able to tell a story by examining tables and graphs based on that data very fascinating and rewarding. I recently replicated a paper in which we examined how birth rates had changed for younger adults based mainly off of economic and social factors. Ever since I was a kid, I enjoyed working with numbers which motivated me to major in Actuarial Science and learn about the finance and insurance world.
+I am originally from India but I’ve been living in Canada since 2006. I’ve attended all levels of school here in Toronto. 
+
+The reason I decided to study Statistics is because I enjoy working with data. I find the idea of taking raw data and being able to tell a story by examining tables and graphs very fascinating and rewarding. I recently replicated a paper in which we examined how birth rates had changed for younger adults based mainly off of economic and social factors. Another paper I wrote tried to find a correlation between factors such as smoking, age and diabetes with platelet counts in one's bloodstream. On the contrary, ever since I was a kid, I enjoyed working with numbers which motivated me to major in Actuarial Science and learn about the finance and insurance world.
 
 The main softwares I have experience using are R, Excel and Python. 
 
