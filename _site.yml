@@ -1,0 +1,14 @@
+name: "ArshWebsite"
+title: "Arsh Lakhanpal "
+description: |
+  Arsh Lakhanpal 
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "My Resume"
+      href: pdf/ArshResume.pdf
+    - text: "About"
+      href: about.html
+output: distill::distill_article
