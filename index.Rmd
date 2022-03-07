@@ -3,7 +3,7 @@ title: "Arsh Lakhanpal"
 image: "gitpic.png"
 links:
   - label: GitHub
-    url: "github.com/lakhan99"
+    url: "https://github.com/lakhan99"
   - label: Email
     url: "mailto:arshlakhanpal6@gmail.com"
 output:
@@ -28,4 +28,4 @@ Bachelors of Science | September 2019 - Present
 
 ## Experience
 
-**Wal-mart** | Cap 2/ Fulfillment Associate | December 2020 - Present
+**Walmart** | Cap 2/ Fulfillment Associate | December 2020 - Present
